@@ -19,6 +19,7 @@
     },
     "homepage": "https://github.com/leonard-thong/practice-mern#readme",
     "dependencies": {
+        "axios": "^0.20.0",
         "bcryptjs": "^2.4.3",
         "config": "^3.3.2",
         "express": "^4.17.1",
