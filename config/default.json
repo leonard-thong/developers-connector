@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://leonard:7891@Malaysia@devconnector.cfudf.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mySecretToken"
+    "jwtSecret": "mySecretToken",
+    "githubClinetId": "c6e762ed737c8dac85a2",
+    "githubSecret": "e0144f559bae01960027869b15ca21d05fe87631"
 }
